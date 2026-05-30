@@ -1,0 +1,2 @@
+# RockPaperScissorsProject
+First JS project :)
